@@ -1,0 +1,12 @@
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\bin\Release\net7.0\CrossCutting.deps.json
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\bin\Release\net7.0\CrossCutting.dll
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\bin\Release\net7.0\CrossCutting.pdb
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\obj\Release\net7.0\CrossCutting.csproj.AssemblyReference.cache
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\obj\Release\net7.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\obj\Release\net7.0\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\obj\Release\net7.0\CrossCutting.AssemblyInfo.cs
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\obj\Release\net7.0\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\obj\Release\net7.0\CrossCutting.dll
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\obj\Release\net7.0\refint\CrossCutting.dll
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\obj\Release\net7.0\CrossCutting.pdb
+C:\Users\solverayazilim\Desktop\myworkspace\CrossCutting\obj\Release\net7.0\ref\CrossCutting.dll

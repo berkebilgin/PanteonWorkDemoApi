@@ -1,0 +1,14 @@
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\bin\Release\net7.0\EntityLayer.deps.json
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\bin\Release\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\bin\Release\net7.0\EntityLayer.dll
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\bin\Release\net7.0\EntityLayer.pdb
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\obj\Release\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\obj\Release\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\obj\Release\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\obj\Release\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\obj\Release\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\obj\Release\net7.0\EntityLayer.dll
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\obj\Release\net7.0\refint\EntityLayer.dll
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\obj\Release\net7.0\EntityLayer.pdb
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\obj\Release\net7.0\EntityLayer.genruntimeconfig.cache
+C:\Users\solverayazilim\Desktop\myworkspace\EntityLayer\obj\Release\net7.0\ref\EntityLayer.dll
